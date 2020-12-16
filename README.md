@@ -4,6 +4,7 @@ I am currently completing a bachelor in Computer Science at Cal State Fullerton.
 
 ### Projects
 [DnDEZ - A DnD Companion Website](https://github.com/Mperez5891/Group-A-DnD-Companion)
+
 [Learning Python With Fantasy Football](https://github.com/Mperez5891/Learning-Python-With-Fantasy-Football)
 
 ### Contact Me
